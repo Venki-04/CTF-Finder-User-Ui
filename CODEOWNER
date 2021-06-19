@@ -1,0 +1,5 @@
+# CODEOWNERS
+# owner can be @username or @org/team-name or username@example.com
+# https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-code-owners
+# DO NOT DELETE - DEFAULT OWNERS
+* @shushmoney/org-admins @Venki-04
